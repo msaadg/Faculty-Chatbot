@@ -19,7 +19,7 @@ import streamlit as st
 st.header('Search Engine - Document')
 
 user_input = st.text_input('Enter your question here:', 
-                           'What are Honorific Ranks?')
+                           'Faculty ranks at Habib University?')
 
 if st.button('Submit'):
 
