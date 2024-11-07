@@ -3,3 +3,7 @@ __pycache__
 DOCS
 DOCS2 
 .venv
+
+*.pdf
+*.ipynb
+*.txt
